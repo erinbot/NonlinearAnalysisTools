@@ -1,4 +1,6 @@
 function argOut = myBisection( xL_Lim, xL, xH, xH_Lim, fh, fargin, bisArg, BisTol, allowMAX)
+% Copywright (c) Erin Summers 2012
+%
 %function argOut = myBisection( xL_Lim, xL, xH, xH_Lim, fh, fargin, bisArg, BisTol, allowMAX)
 % DESCRIPTION
 %   This function is performs a bisection by choosing useful bisection

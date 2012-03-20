@@ -1,4 +1,6 @@
 function [isfeas,VOut] = L2toL2sFixed(f, h, x, W, s, R2, Gamma, L1, VBasis, SOSoptions, SupplyRate)
+% Copywright (c) Erin Summers 2012
+%
 %   function [isfeas,VOut] = L2toL2sFixed(f, h, x, W, s, R2, Gamma, L1, VBasis, SOSoptions, SupplyRate)
 %
 %   DESCRIPTION

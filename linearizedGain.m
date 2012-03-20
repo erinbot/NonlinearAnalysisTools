@@ -1,4 +1,6 @@
 function [gL,Vout] = linearizedGain(f,h,x,w,l1, SOSOptions)
+% Copywright (c) Erin Summers 2012
+%
 %function [gL,Vout] = linearizedGain(f,h,x,w,l1, SOSOptions)
 %   DESCRIPTION
 %       This function finds an L2 gain for which the linearized dynamics of

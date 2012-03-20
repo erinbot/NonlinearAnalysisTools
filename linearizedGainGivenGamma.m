@@ -1,4 +1,6 @@
 function [Vout] = linearizedGainGivenGamma(f,h,x,w,l1, gL,SOSoptions)
+% Copywright (c) Erin Summers 2012
+%
 %function [Vout] = linearizedGainGivenGamma(f,h,x,w,l1, gL,SOSoptions)
 %   DESCRIPTION
 %       This function solves the coupled feasibility problems:

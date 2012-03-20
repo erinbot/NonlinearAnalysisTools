@@ -1,4 +1,6 @@
 function [isfeasp,sOut] = L2toL2VFixed(f, h, x, W, V, R2, Gamma, sBasis, SOSoptions, SupplyRate)
+% Copywright (c) Erin Summers 2012
+%
 %   function [isfeasp,sOut] = L2toL2VFixed(f, h, x, W, V, R2, Gamma, sBasis, SOSoptions, SupplyRate)
 %
 %   DESCRIPTION
